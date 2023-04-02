@@ -39,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shashank-crypto/shashank-crypto/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shashank-crypto/shashank-crypto/output/snake.svg" alt="Snake animation" />
 
 ###
