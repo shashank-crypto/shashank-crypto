@@ -14,17 +14,12 @@
 <p align="left"> <a href="https://twitter.com/shashank_k_chy" target="blank"><img src="https://img.shields.io/twitter/follow/shashank_k_chy?logo=twitter&style=for-the-badge" alt="shashank_k_chy" /></a> </p>
 <p align="left">
  
-- 🌱 I’m currently learning **Kafka, Jenkins, Scripting, System Design**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-shashank-crypto.vercel.app/](https://my-portfolio-shashank-crypto.vercel.app/)
-
-- 💬 Ask me about **JavaScript, Node.js, Python, Java, MongoDB, MySql ....**
-
-- 📫 How to reach me **shashank.k.chaudhary@gmail.com**
-
-- 📄 Know about my experiences [https://my-portfolio-shashank-crypto.vercel.app/](https://my-portfolio-shashank-crypto.vercel.app/)
-
-- ⚡ Fun fact **I buy all my books by reading the back of it.**
+🌱 I’m currently learning **Kafka, Jenkins, Scripting, System Design** <br/>
+👨‍💻 All of my projects are available at [my portfolio website](https://my-portfolio-shashank-crypto.vercel.app/)<br/>
+💬 Ask me about **JavaScript, Node.js, Python, Java, MongoDB, MySql ....**<br/>
+📫 How to reach me **shashank.k.chaudhary@gmail.com**<br/>
+📄 Know about my experiences [Experinces](https://my-portfolio-shashank-crypto.vercel.app/projects)<br/>
+⚡ Fun fact **I buy all my books by reading the back of it.**<br/>
  
  </p>
 
