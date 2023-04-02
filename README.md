@@ -12,7 +12,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank-crypto" alt="shashank-crypto" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shashank_k_chy" target="blank"><img src="https://img.shields.io/twitter/follow/shashank_k_chy?logo=twitter&style=for-the-badge" alt="shashank_k_chy" /></a> </p>
-
+<p align="left">
 - 🌱 I’m currently learning **Kafka, Jenkins, Scripting, System Design**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-shashank-crypto.vercel.app/](https://my-portfolio-shashank-crypto.vercel.app/)
@@ -24,6 +24,7 @@
 - 📄 Know about my experiences [https://my-portfolio-shashank-crypto.vercel.app/](https://my-portfolio-shashank-crypto.vercel.app/)
 
 - ⚡ Fun fact **I buy all my books by reading the back of it.**
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
