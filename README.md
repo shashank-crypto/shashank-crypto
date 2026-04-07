@@ -55,6 +55,6 @@
 
 ###
 
-<div align="center" >
+<!-- <div align="center" >
 <img src="https://raw.githubusercontent.com/shashank-crypto/shashank-crypto/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
